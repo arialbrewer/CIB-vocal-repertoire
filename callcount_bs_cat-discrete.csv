@@ -1,0 +1,37 @@
+Call_type,number,category
+aws,23,whistle
+aws.seg,6,whistle
+aws.seq,3,whistle
+c.5,4,combined call
+dottrill,2,whistle
+dws,239,whistle
+dws.seg,16,whistle
+dws.seq,59,whistle
+dws.seq.t,2,whistle
+flatws,216,whistle
+flatws.seg,10,whistle
+modws,98,whistle
+modws.m,1,whistle
+modws.m.seg,3,whistle
+modws.seg,48,whistle
+modws.seg.t,2,whistle
+modws.t,5,whistle
+nws,16,whistle
+nws.seg,2,whistle
+nws.seq,1,whistle
+pulse.a,5,pulsed call
+pulse.d,12,pulsed call
+pulse.d.bc,1,pulsed call
+pulse.d.seg,12,pulsed call
+pulse.flat,46,pulsed call
+pulse.flat.seg,33,pulsed call
+pulse.flat.seg.1,6,pulsed call
+pulse.flat.seg.2,9,pulsed call
+pulse.flat.seg.3,4,pulsed call
+pulse.mod,3,pulsed call
+pulse.mod.seg,10,pulsed call
+pulse.n,2,pulsed call
+rws,5,whistle
+trill,18,whistle
+uws,11,whistle
+uws.seq,7,whistle
